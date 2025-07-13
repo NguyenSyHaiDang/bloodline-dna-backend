@@ -20,7 +20,10 @@
     "prisma": "^6.8.2",
     "reflect-metadata": "^0.2.2",
     "uuid": "^11.1.0",
-    "winston": "^3.17.0"
+    "winston": "^3.17.0",
+
+    
+    "tsc-alias": "^1.8.16"
   },
   "scripts": {
     "dev": "npx nodemon",
@@ -53,7 +56,7 @@
     "prettier": "^3.5.3",
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
-    "tsc-alias": "^1.8.16",
+    
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.8.3"
   }
